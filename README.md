@@ -1,8 +1,8 @@
-# Exercício: Desenvolver uma Aplicação Spring Boot de Gestão de Tarefas
+# Exercício: Desenvolver uma Aplicação JAVA de Gestão de Tarefas com Spring Boot 
 
 ## Objetivo
 
-Este exercício tem como objetivo permitir que os alunos apliquem os conceitos do Spring Boot aprendidos até agora. Eles irão configurar um projeto Spring Boot para criar uma aplicação de gestão de tarefas. O exercício também inclui a criação de uma interface de usuário em HTML, CSS e JavaScript.
+Este exercício tem como objetivo permitir que os alunos apliquem conceitos basicos do Spring Boot. Eles irão configurar um projeto Spring Boot para criar uma aplicação de gestão de tarefas. O exercício também inclui a criação de uma interface de usuário em HTML, CSS e JavaScript.
 
 ## Instruções para os Alunos
 
